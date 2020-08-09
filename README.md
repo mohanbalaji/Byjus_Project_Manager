@@ -23,6 +23,11 @@ Functionality to add/delete cards
 Event bus for triggering events externally
 UI and Design on Dashboard Side Bar
 Supports pagination when scrolling individual lanes
+
+
+PlugIns - React Trello library plugin
+
+
 Trade - Offs:
 
 If Api support is there, would have completed it with Dynamically so that it will be both visually and functionally perfect.
