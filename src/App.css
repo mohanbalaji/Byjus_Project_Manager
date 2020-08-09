@@ -127,13 +127,24 @@ body{
   padding: 5px;
 }
 
+.fQkkzS{
+  
+}
+
 .eMMIYx{
   max-width: 380px !important;
   border-top: 2px solid #813588;
 }
+
+.fQkkzS{
+  max-width: 380px !important;
+  border-top: 2px solid #813588;
+}
+
 .smooth-dnd-container.horizontal > .smooth-dnd-draggable-wrapper{
   margin: 10px;
 }
+
 .smooth-dnd-container.horizontal{
   height: 100% !important;
 }
