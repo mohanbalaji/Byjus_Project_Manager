@@ -1,0 +1,98 @@
+{
+  "lanes": [
+    {
+      "id": "Track",
+      "title": "On Track",
+      "label": "",
+      "style": {
+        "width": 400
+      },
+      "cards": [
+        {
+          "id": "CBSE",
+          "title": "CBSE Grade 5 Maths Algebra",
+          "cardStyle": {
+            "width": 270,
+            "maxWidth": 380,
+            "margin": "auto",
+            "marginBottom": 5
+          },
+          "description": "Grade 5 Maths Algebra is on the track with full progress"
+        },
+        {
+          "id": "CBSE1",
+          "title": "CBSE Grade 4 Maths Algebra",
+          "cardStyle": {
+            "width": 270,
+            "maxWidth": 270,
+            "margin": "auto",
+            "marginBottom": 5
+          },
+          "description": "Grade 4 Maths Algebra has progress to 3 lessions"
+        },
+        {
+          "id": "CBSE2",
+          "title": "CBSE Grade 3 Maths Algebra",
+          "cardStyle": {
+            "width": 270,
+            "maxWidth": 270,
+            "margin": "auto",
+            "marginBottom": 5
+          },
+          "description": "Grade 3 Maths Algebra has progress to 2 lessons"
+        }
+      ]
+    },
+    {
+      "id": "Delayed",
+      "title": "Delayed",
+      "style": {
+        "width": 400
+      },
+      "cards": [
+        {
+          "id": "Wip1",
+          "title": "CBSE Grade 4 English",
+          "cardStyle": {
+            "width": 270,
+            "maxWidth": 270,
+            "margin": "auto",
+            "marginBottom": 5
+          },
+          "description": "Grade 4 English lessons are delyed beyond schedule"
+        },
+        {
+          "id": "CBSE5",
+          "title": "CBSE Grade 3 Physics",
+          "cardStyle": {
+            "width": 270,
+            "maxWidth": 270,
+            "margin": "auto",
+            "marginBottom": 5
+          },
+          "description": "Grade 4 Physics lessons are delyed beyond schedule"
+        }
+      ]
+    },
+    {
+      "id": "On Hold",
+      "title": "On Hold",
+      "style": {
+        "width": 400
+      },
+      "cards": [
+        {
+          "id": "CBSE6",
+          "title": "CBSE Grade 3 Science",
+          "cardStyle": {
+            "width": 270,
+            "maxWidth": 270,
+            "margin": "auto",
+            "marginBottom": 5
+          },
+          "description": "Grade 3 Science has been hold now"
+        }
+      ]
+    }
+  ]
+}
